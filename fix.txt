@@ -1,2 +1,3 @@
 this is bugs file
 main is imp
+add some new to it
